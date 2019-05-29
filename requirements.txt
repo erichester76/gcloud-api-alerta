@@ -1,2 +1,2 @@
-git+git://github.com/guardian/alerta@release-5-beta1#egg=alerta-server
+git+git://github.com/guardian/alerta#egg=alerta-server
 gunicorn
